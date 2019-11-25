@@ -59,3 +59,51 @@ path = "src/5_3.rs"
 [[bin]]
 name = "6"
 path = "src/6.rs"
+
+[[bin]]
+name = "7_1"
+path = "src/7_1.rs"
+
+[[bin]]
+name = "7_2"
+path = "src/7_2.rs"
+
+[[bin]]
+name = "7_2_1"
+path = "src/7_2_1.rs"
+
+[[bin]]
+name = "7_3"
+path = "src/7_3.rs"
+
+[[bin]]
+name = "7_4"
+path = "src/7_4.rs"
+
+[[bin]]
+name = "7_5"
+path = "src/7_5.rs"
+
+[[bin]]
+name = "7_5_1_1"
+path = "src/7_5_1_1.rs"
+
+[[bin]]
+name = "7_5_1_2"
+path = "src/7_5_1_2.rs"
+
+[[bin]]
+name = "7_5_1_3"
+path = "src/7_5_1_3.rs"
+
+[[bin]]
+name = "7_5_1_4"
+path = "src/7_5_1_4.rs"
+
+[[bin]]
+name = "7_5_2"
+path = "src/7_5_2.rs"
+
+[[bin]]
+name = "7_5_3"
+path = "src/7_5_3.rs"
