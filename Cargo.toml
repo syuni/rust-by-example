@@ -159,3 +159,103 @@ path = "src/8_2_6_2.rs"
 [[bin]]
 name = "8_3"
 path = "src/8_3.rs"
+
+[[bin]]
+name = "9"
+path = "src/9.rs"
+
+[[bin]]
+name = "9_1"
+path = "src/9_1.rs"
+
+[[bin]]
+name = "9_2"
+path = "src/9_2.rs"
+
+[[bin]]
+name = "9_3"
+path = "src/9_3.rs"
+
+[[bin]]
+name = "9_4"
+path = "src/9_4.rs"
+
+[[bin]]
+name = "10_1"
+path = "src/10_1.rs"
+
+[[bin]]
+name = "10_2"
+path = "src/10_2.rs"
+
+[[bin]]
+name = "10_3"
+path = "src/10_3.rs"
+
+[[bin]]
+name = "10_4"
+path = "src/10_4.rs"
+
+[[bin]]
+name = "10_5"
+path = "src/10_5.rs"
+
+[[bin]]
+name = "12_1"
+path = "src/12_1.rs"
+
+[[bin]]
+name = "12_3"
+path = "src/12_3.rs"
+
+[[bin]]
+name = "13"
+path = "src/13.rs"
+
+[[bin]]
+name = "13_1"
+path = "src/13_1.rs"
+
+[[bin]]
+name = "13_2"
+path = "src/13_2.rs"
+
+[[bin]]
+name = "13_3"
+path = "src/13_3.rs"
+
+[[bin]]
+name = "13_4"
+path = "src/13_4.rs"
+
+[[bin]]
+name = "13_4_1"
+path = "src/13_4_1.rs"
+
+[[bin]]
+name = "13_5"
+path = "src/13_5.rs"
+
+[[bin]]
+name = "13_6"
+path = "src/13_6.rs"
+
+[[bin]]
+name = "13_7_1"
+path = "src/13_7_1.rs"
+
+[[bin]]
+name = "13_7_2"
+path = "src/13_7_2.rs"
+
+[[bin]]
+name = "13_8"
+path = "src/13_8.rs"
+
+[[bin]]
+name = "13_8_1"
+path = "src/13_8_1.rs"
+
+[[bin]]
+name = "14_2"
+path = "src/14_2.rs"
