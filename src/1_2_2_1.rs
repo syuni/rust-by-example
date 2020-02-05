@@ -8,15 +8,17 @@ impl fmt::Display for List {
         // `vec`へのリファレンスを作成する
         let List(ref vec) = *self;
 
-        try!(write!(f, "["));
+        write!(f, "[")?;
 
         // `v`を介して`vec`をイテレーションし、同時にカウントを
         // `enumerate`で取得する
         for (count, v) in vec.iter().enumerate() {
             // 初回を除き、`write!`を呼ぶ前にカンマを加える
             // エラーを返すために`try!`を使用する
-            if count != 0 { try!(write!(f, ", ")); }
-            try!(write!(f, "{}", v));
+            if count != 0 {
+                write!(f, ", ")?;
+            }
+            write!(f, "{}", v)?;
         }
 
         // 開きっぱなしのブラケットを閉じて、`fmt::Result`の値を返す

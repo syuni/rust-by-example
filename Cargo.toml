@@ -259,3 +259,239 @@ path = "src/13_8_1.rs"
 [[bin]]
 name = "14_2"
 path = "src/14_2.rs"
+
+[[bin]]
+name = "14_2_1"
+path = "src/14_2_1.rs"
+
+[[bin]]
+name = "14_3"
+path = "src/14_3.rs"
+
+[[bin]]
+name = "14_3_1"
+path = "src/14_3_1.rs"
+
+[[bin]]
+name = "14_3_2"
+path = "src/14_3_2.rs"
+
+[[bin]]
+name = "14_3_3"
+path = "src/14_3_3.rs"
+
+[[bin]]
+name = "14_3_4"
+path = "src/14_3_4.rs"
+
+[[bin]]
+name = "14_4"
+path = "src/14_4.rs"
+
+[[bin]]
+name = "14_4_1"
+path = "src/14_4_1.rs"
+
+[[bin]]
+name = "14_4_2"
+path = "src/14_4_2.rs"
+
+[[bin]]
+name = "14_4_3"
+path = "src/14_4_3.rs"
+
+[[bin]]
+name = "14_4_4"
+path = "src/14_4_4.rs"
+
+[[bin]]
+name = "14_4_5"
+path = "src/14_4_5.rs"
+
+[[bin]]
+name = "14_4_6"
+path = "src/14_4_6.rs"
+
+[[bin]]
+name = "14_4_7"
+path = "src/14_4_7.rs"
+
+[[bin]]
+name = "14_4_8"
+path = "src/14_4_8.rs"
+
+[[bin]]
+name = "15"
+path = "src/15.rs"
+
+[[bin]]
+name = "15_1"
+path = "src/15_1.rs"
+
+[[bin]]
+name = "15_2"
+path = "src/15_2.rs"
+
+[[bin]]
+name = "15_3"
+path = "src/15_3.rs"
+
+[[bin]]
+name = "15_4"
+path = "src/15_4.rs"
+
+[[bin]]
+name = "15_5"
+path = "src/15_5.rs"
+
+[[bin]]
+name = "16"
+path = "src/16.rs"
+
+[[bin]]
+name = "16_1"
+path = "src/16_1.rs"
+
+[[bin]]
+name = "16_2"
+path = "src/16_2.rs"
+
+[[bin]]
+name = "16_3"
+path = "src/16_3.rs"
+
+[[bin]]
+name = "16_4"
+path = "src/16_4.rs"
+
+[[bin]]
+name = "16_5"
+path = "src/16_5.rs"
+
+[[bin]]
+name = "16_6"
+path = "src/16_6.rs"
+
+[[bin]]
+name = "16_7"
+path = "src/16_7.rs"
+
+[[bin]]
+name = "16_7_1"
+path = "src/16_7_1.rs"
+
+[[bin]]
+name = "16_7_2"
+path = "src/16_7_2.rs"
+
+[[bin]]
+name = "16_7_3"
+path = "src/16_7_3.rs"
+
+[[bin]]
+name = "16_8"
+path = "src/16_8.rs"
+
+[[bin]]
+name = "16_9"
+path = "src/16_9.rs"
+
+[[bin]]
+name = "16_10"
+path = "src/16_10.rs"
+
+[[bin]]
+name = "17_1"
+path = "src/17_1.rs"
+
+[[bin]]
+name = "17_2"
+path = "src/17_2.rs"
+
+[[bin]]
+name = "17_3"
+path = "src/17_3.rs"
+
+[[bin]]
+name = "17_4"
+path = "src/17_4.rs"
+
+[[bin]]
+name = "17_5"
+path = "src/17_5.rs"
+
+[[bin]]
+name = "17_5_1"
+path = "src/17_5_1.rs"
+
+[[bin]]
+name = "17_6"
+path = "src/17_6.rs"
+
+[[bin]]
+name = "17_7"
+path = "src/17_7.rs"
+
+[[bin]]
+name = "17_7_1"
+path = "src/17_7_1.rs"
+
+[[bin]]
+name = "17_7_2"
+path = "src/17_7_2.rs"
+
+[[bin]]
+name = "18_1"
+path = "src/18_1.rs"
+
+[[bin]]
+name = "18_2"
+path = "src/18_2.rs"
+
+[[bin]]
+name = "18_3"
+path = "src/18_3.rs"
+
+[[bin]]
+name = "18_4_1"
+path = "src/18_4_1.rs"
+
+[[bin]]
+name = "18_4_2"
+path = "src/18_4_2.rs"
+
+[[bin]]
+name = "18_5"
+path = "src/18_5.rs"
+
+[[bin]]
+name = "18_5_1"
+path = "src/18_5_1.rs"
+
+[[bin]]
+name = "18_5_2"
+path = "src/18_5_2.rs"
+
+[[bin]]
+name = "18_6"
+path = "src/18_6.rs"
+
+[[bin]]
+name = "18_7"
+path = "src/18_7.rs"
+
+[[bin]]
+name = "18_7_1"
+path = "src/18_7_1.rs"
+
+[[bin]]
+name = "18_8"
+path = "src/18_8.rs"
+
+[[bin]]
+name = "19_1"
+path = "src/19_1.rs"
+
+[[bin]]
+name = "19_2"
+path = "src/19_2.rs"
